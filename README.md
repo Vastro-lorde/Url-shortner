@@ -6,3 +6,5 @@
 
 <h3>How install</h3>
 clone and then run "npm install" in your local computer( you must have mongodb installed or change the database url in .env file to your mongodb url), then go to http://localhost:(the port set in .env file).
+
+check it out here https://vshort.herokuapp.com
